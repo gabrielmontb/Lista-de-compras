@@ -1,0 +1,19 @@
+# Build
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+**/.vs/
+
+# Arquivos gerados pelo Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Cache
+*.cache
